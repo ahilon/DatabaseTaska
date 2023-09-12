@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Text;
 
 Console.WriteLine("Hello, World!");
-string csvPath = @"C:\Users\ziela\source\repos\mydatabase\uzytkownicy.csv";
+string csvPath = @"..\database\uzytkownicy.csv";
 var userDataBase = LoadDataBase(csvPath);
 Display(userDataBase);
 showcollumns(userDataBase);
