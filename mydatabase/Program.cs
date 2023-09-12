@@ -11,6 +11,8 @@ string csvPath = @"C:\Users\ziela\source\repos\mydatabase\uzytkownicy.csv";
 var userDataBase = LoadDataBase(csvPath);
 Display(userDataBase);
 showcollumns(userDataBase);
+Console.ReadKey();
+
 
 
 static void showcollumns(IEnumerable<Users> usersDatas)
