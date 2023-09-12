@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0DhxLjxFuwh95TmXxoEQJOyQENCKFBMnZGhq52iHtJhj4k5VIFMh7K1aNGgW5nwY/ao5eteM//ibBPgDuIrhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziela\\source\\repos\\mydatabase\\mydatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziela\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

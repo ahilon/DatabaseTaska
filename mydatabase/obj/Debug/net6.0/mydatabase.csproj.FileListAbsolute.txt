@@ -1,0 +1,17 @@
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\mydatabase.exe
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\mydatabase.deps.json
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\mydatabase.runtimeconfig.json
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\mydatabase.dll
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\mydatabase.pdb
+C:\Users\ziela\source\repos\mydatabase\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.csproj.AssemblyReference.cache
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.AssemblyInfoInputs.cache
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.AssemblyInfo.cs
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.csproj.CoreCompileInputs.cache
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.csproj.CopyComplete
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.dll
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\refint\mydatabase.dll
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.pdb
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\mydatabase.genruntimeconfig.cache
+C:\Users\ziela\source\repos\mydatabase\obj\Debug\net6.0\ref\mydatabase.dll
